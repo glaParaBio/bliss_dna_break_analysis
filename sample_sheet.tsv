@@ -1,0 +1,19 @@
+library_id	umi_position	barcode	genome	dataset	fastq_r1
+Mu	0:8	TGATGATC	TbruceiLister427_2018	Tbrucei	data/bliss/Mu_S56_R1_001.fastq.gz
+W	0:8	CATCACGC	TbruceiLister427_2018	Tbrucei	data/bliss/W_S55_R1_001.fastq.gz
+## Enterocyte_High_M1	0:8	TGATGCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_High_M1.SRR11119506.fastq.gz
+## Enterocyte_High_M2	0:8	TGATGCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_High_M2.SRR11119509.fastq.gz
+## Enterocyte_Mid_M1	0:8	ACGACCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_Mid_M1.SRR11119505.fastq.gz
+## Enterocyte_Mid_M2	0:8	ACGACCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_Mid_M2.SRR11119508.fastq.gz
+## Enterocyte_Neg_M1	0:8	GTCGTCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_Neg_M1.SRR11119504.fastq.gz
+## Enterocyte_Neg_M2	0:8	GTCGTCGC	Mus_musculus	Bouwman; mouse	ena/Enterocyte_Neg_M2.SRR11119507.fastq.gz
+## TK6_DMSO_Rep1	0:8	CATCACGC	Homo_sapiens	Bouwman; human	ena/TK6_DMSO_Rep1.SRR11119500.fastq.gz
+## TK6_DMSO_Rep2	0:8	CATCACGC	Homo_sapiens	Bouwman; human	ena/TK6_DMSO_Rep2.SRR11119502.fastq.gz
+## TK6_ETO_Rep1	0:8	GTCGTCGC	Homo_sapiens	Bouwman; human	ena/TK6_ETO_Rep1.SRR11119501.fastq.gz
+## TK6_ETO_Rep2	0:8	GTCGTCGC	Homo_sapiens	Bouwman; human	ena/TK6_ETO_Rep2.SRR11119503.fastq.gz
+## RM106_K562_DMSO	0:8	GTCGTCGC	Homo_sapiens	Ballinger	ena/RM106_K562_DMSO.SRR7346498.fastq.gz
+## RM106_K562_ETOPOSIDE	0:8	GTCGTCGC	Homo_sapiens	Ballinger	ena/RM106_K562_ETOPOSIDE.SRR7346497.fastq.gz
+## RM118_MCF7-Bio2_tech1	0:8	ACGACATC	Homo_sapiens	Ballinger	ena/RM118_MCF7-Bioreplica2_technicalrep1_ACGACATC.SRR7346496.fastq.gz
+## RM119_MCF7-Bio2-tech2	0:8	ACGACATC	Homo_sapiens	Ballinger	ena/RM119_MCF7-Bioreplica2-technicalrep2_ACGACATC.SRR7346495.fastq.gz
+## RM120_MCF7-Bio1-tech1	0:8	CATCACGC	Homo_sapiens	Ballinger	ena/RM120_MCF7-Bioreplica1-technicalrep1_CATCACGC.SRR7346494.fastq.gz
+## RM121_MCF7-Bio1-tech2	0:8	GTCGTCGC	Homo_sapiens	Ballinger	ena/RM121_MCF7-Bioreplica1-technicalrep2_GTCGTCGC.SRR7346493.fastq.gz

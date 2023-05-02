@@ -1,0 +1,4 @@
+genome	macs2_genome_size	gff	fasta
+TbruceiLister427_2018	35000000	https://tritrypdb.org/common/downloads/release-55/TbruceiLister427_2018/gff/data/TriTrypDB-55_TbruceiLister427_2018.gff	https://tritrypdb.org/common/downloads/release-55/TbruceiLister427_2018/fasta/data/TriTrypDB-55_TbruceiLister427_2018_Genome.fasta
+Homo_sapiens	2700000000	ftp://ftp.ensembl.org/pub/release-105/gff3/homo_sapiens/Homo_sapiens.GRCh38.105.gff3.gz	ftp://ftp.ensembl.org/pub/release-105/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+Mus_musculus	1870000000	ftp://ftp.ensembl.org/pub/release-105/gff3/mus_musculus/Mus_musculus.GRCm39.105.gff3.gz	ftp://ftp.ensembl.org/pub/release-105/fasta/mus_musculus/dna/Mus_musculus.GRCm39.dna.primary_assembly.fa.gz

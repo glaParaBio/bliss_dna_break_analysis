@@ -1,0 +1,32 @@
+@read1 N:2
+CCCCCCCC
++
+IIIIIIII
+@read2 N:2
+CCCCCCCCCCCC
++
+IIIIIIIIIIII
+@read3 N:2
+aaaaaaaaaaaaa
++
+iiiiiiiiiiiii
+@read4 N:2
+aaaaaaaaaaaaa
++
+iiiiiiiiiiiii
+@read5 N:2
+CCCCCCCCCCCCC
++
+IIIIIIIIIIIII
+@read6 N:2
+aaaaaaaaaaaaa
++
+iiiiiiiiiiiii
+@read7 N:2
+CCCCCCCCCCCCCC
++
+IIIIIIIIIIIIII
+@read8 N:2
+aaaaaaaaaaaaaa
++
+iiiiiiiiiiiiii

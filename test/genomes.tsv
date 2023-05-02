@@ -1,0 +1,3 @@
+genome	macs2_genome_size	gff	fasta
+TbruceiLister427_2018	35000000	https://tritrypdb.org/common/downloads/release-55/TbruceiLister427_2018/gff/data/TriTrypDB-55_TbruceiLister427_2018.gff	https://tritrypdb.org/common/downloads/release-55/TbruceiLister427_2018/fasta/data/TriTrypDB-55_TbruceiLister427_2018_Genome.fasta
+TbruceiLister427_2018_54	35000000	https://tritrypdb.org/common/downloads/release-54/TbruceiLister427_2018/gff/data/TriTrypDB-54_TbruceiLister427_2018.gff	https://tritrypdb.org/common/downloads/release-54/TbruceiLister427_2018/fasta/data/TriTrypDB-54_TbruceiLister427_2018_Genome.fasta

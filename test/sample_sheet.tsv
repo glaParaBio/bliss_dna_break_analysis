@@ -1,0 +1,3 @@
+library_id	umi_position	barcode	genome	fastq_r1	fastq_r2
+Mu1	0:8	TGATGATC	TbruceiLister427_2018	../test/Mu_S56_R1_001.fastq.gz	../test/Mu_S56_R2_001.fastq.gz
+Mu2	0:8	TGATGATC	TbruceiLister427_2018_54	../test/Mu_S56_R1_001.fastq.gz	NA
